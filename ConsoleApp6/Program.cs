@@ -16,7 +16,7 @@ class Program
         public int Gold { get; set; }
         public List<string> Inventory { get; set; }
 
-        public Player(string name, string playerClass)d
+        public Player(string name, string playerClass)
         {
             Name = name;
             Class = playerClass;

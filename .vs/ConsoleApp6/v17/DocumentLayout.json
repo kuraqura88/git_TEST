@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\black\\OneDrive\\Desktop\\work\\c#\\ConsoleApp6\\",
+  "WorkspaceRootPath": "C:\\Users\\black\\OneDrive\\Desktop\\work\\c#\\ConsoleApp6\\git_TEST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E5DE897-0624-4792-83FB-0AB7D8768713}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\black\\onedrive\\desktop\\work\\c#\\consoleapp6\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E5DE897-0624-4792-83FB-0AB7D8768713}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\black\\onedrive\\desktop\\work\\c#\\consoleapp6\\git_test\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E5DE897-0624-4792-83FB-0AB7D8768713}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Desktop\\work\\c#\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Desktop\\work\\c#\\ConsoleApp6\\git_TEST\\ConsoleApp6\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
-              "ToolTip": "C:\\Users\\black\\OneDrive\\Desktop\\work\\c#\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Desktop\\work\\c#\\ConsoleApp6\\git_TEST\\ConsoleApp6\\Program.cs",
               "RelativeToolTip": "ConsoleApp6\\Program.cs",
-              "ViewState": "AQIAAAcCAAAAAAAAAAAAAHAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T19:42:58.012Z",
               "EditorCaption": ""
